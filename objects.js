@@ -1,10 +1,10 @@
 var playlist = {
-    'a-ha': 'Take On Me',
-    'Panic': 'Death of A Bachelor'
+    aha: 'Take On Me',
+    panic: 'Death of A Bachelor'
 };
 
 function updatePlaylist(playlist, artistName, songTitle){
-
+  
 }
 
 
