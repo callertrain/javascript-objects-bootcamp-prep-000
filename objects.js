@@ -1,4 +1,4 @@
 var playlist = new Object(
-  rihanna: 'stay';
+  rihanna: 'stay',
   panic: 'hallelujah';
 )
