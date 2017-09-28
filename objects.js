@@ -1,3 +1,3 @@
 var playlist = {
-  rihanna: "stay";
+  panicAt: "Hallelujah";
 }
