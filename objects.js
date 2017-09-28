@@ -1,3 +1,3 @@
-var playlist = newObject({
+var playlist = new Object({
   panicAt: 'Hallelujah';
 })
