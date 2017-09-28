@@ -3,6 +3,4 @@ var playlist = newObject({
 })
 
 
-function updatePlaylist(){
 
-}
