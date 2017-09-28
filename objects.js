@@ -1,5 +1,3 @@
-var playlist = new Object({
-  panicAt: 'Hallelujah';
-  rihanna: 'Stay';
-  
-})
+var playlist = {
+  samba: 'jorge';
+}
