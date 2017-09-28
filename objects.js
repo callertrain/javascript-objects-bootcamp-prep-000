@@ -1,8 +1,8 @@
 var playlist = newObject({
-  panicAt: "Hallelujah";
+  panicAt: 'Hallelujah';
 })
 
 
 function updatePlaylist(){
-  
+
 }
